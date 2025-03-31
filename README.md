@@ -4,6 +4,8 @@
 </p>
 
 ## Name's project
+Jeux du Héro
+
 > Ce projet est un petit jeux utilisant Javascript pour effectuer différente action. Le Héros commence par un entrainement avant de partir au combat. Chaque combat lui coutera de l'energie. A la fin de l'affrontement, il pourra choisir 3 coffres parmis 6.
 
 ## Technology used
